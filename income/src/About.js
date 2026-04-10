@@ -27,12 +27,6 @@ function About() {
 
         <h2 style={headingStyle}>How This Website Works</h2>
 
-        <p>
-          This Expense Tracker helps you manage your daily spending in a simple
-          and organized way. It allows you to track expenses by category and
-          automatically calculates totals.
-        </p>
-
         <hr />
 
         <h3>Steps to Use:</h3>
